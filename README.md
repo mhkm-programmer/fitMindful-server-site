@@ -1,6 +1,3 @@
-# b7a12-summer-camp-server_side-kabircodefolio
-b7a12-summer-camp-server_side-kabircodefolio created by GitHub Classroom
-
 # FitMindful Starter Repository
 
 FitMindful is yoga and meditation website that available different types of courses and tips!!!
